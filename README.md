@@ -1,0 +1,1 @@
+# BITZ-Miner-Setup
